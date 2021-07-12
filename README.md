@@ -1,7 +1,7 @@
 
- Linguagem de programação: Ruby;
- Intepetrar\interagir ouseja automatizar os elementosos :Capybara;
- Escrever as features (cenários) dos testes  Cucumber
+  Ruby:Linguagem de programação;
+ Capybara:Intepetrar\interagir ou seja automatizar os elementosos;
+ Cucumber: Escrever as features (cenários) dos testes  
 
 Versão do Ruby 2.6.6p146 (2020-03-31 revision 67876) [x64-mingw32] 
 Para instalar o Bundler (gerenciador de extensões) rodar o comando abaixo:
