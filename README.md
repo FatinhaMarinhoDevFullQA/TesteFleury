@@ -1,6 +1,6 @@
 # TesteFleury
 
-Linguagem de programação: Ruby;
+ Linguagem de programação: Ruby;
  Intepetrar\interagir ouseja automatizar os elementosos :Capybara;
  Escrever as features (cenários) dos testes  Cucumber
 
